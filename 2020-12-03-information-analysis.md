@@ -1,3 +1,9 @@
 ##  信息分析课程资料汇总  
 
-###  财务报告
+###  财务报告  
+
+###  学习资料  
+
+####  搜索  
+
+* [SearchResearch](https://sites.google.com/site/dmrussell/Home?authuser=0):谷歌搜索专家 Dan Russell's 博客
