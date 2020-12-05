@@ -5,7 +5,8 @@
 
 ###  上市公司地区分类  
 
-[上交所上市公司地区分类](http://www.sse.com.cn/assortment/stock/areatrade/area/)
+[上交所上市公司地区分类](http://www.sse.com.cn/assortment/stock/areatrade/area/)  
+
 [深交所上市公司地区查询](http://www.szse.cn/market/product/stock/list/index.html)
 
 ###  学习资料  
