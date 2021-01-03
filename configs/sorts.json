@@ -3,17 +3,20 @@
         "readme.md", 
         "2020-12-06-quantitative-trading.md", 
         "2020-12-03-information-analysis.md", 
-        "2020-12-03-value-anti-common-sense.md"
+        "2020-12-03-value-anti-common-sense.md", 
+        "2021-01-03-economic-law.md"
     ], 
     "__positions": {
         "2020-12-06-quantitative-trading.md": 2, 
         "2020-12-03-value-anti-common-sense.md": 4, 
+        "2021-01-03-economic-law.md": 5, 
         "2020-12-03-information-analysis.md": 3, 
         "readme.md": 1
     }, 
     "__raw_positions": {
         "2020-12-06-quantitative-trading.md": 2, 
         "2020-12-03-value-anti-common-sense.md": 4, 
+        "2021-01-03-economic-law.md": 5, 
         "2020-12-03-information-analysis.md": 3, 
         "readme.md": 1
     }
